@@ -5,7 +5,7 @@
 
 ### pip install -r requirements.txt
 
-# 🥑 QualitySense
+# QualitySense
 
 ## Descripción del Proyecto
 
@@ -34,9 +34,9 @@ Desarrollar un sistema inteligente capaz de **detectar, clasificar y contar agua
 
 El proyecto utiliza **YOLO (You Only Look Once)** con **transfer learning** para detección de objetos.
 
-* 📸 Dataset: Más de **3,500 imágenes** de aguacates etiquetadas.
-* 🎯 Precisión: Superior al **90%**.
-* ⚡ Mejora de velocidad: Aproximadamente **40%**.
+* Dataset: Más de **3,500 imágenes** de aguacates etiquetadas.
+* Precisión: Superior al **90%**.
+* Mejora de velocidad: Aproximadamente **40%**.
 
 ---
 
